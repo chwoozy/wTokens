@@ -1,8 +1,9 @@
-<h1>wTokens</h1>
+<h1 align="center">wTokens</h1>
 <p align="center">
   <img align="center" src="https://github.com/yungweezy/wTokens/blob/main/assets/menuimg.png?raw=true" width="300px">
-  <p>wTokens is a secondary economy addon geared for Prison servers.<br>
-  Requires a MYSQL database to store user profile and inventory details.</p>
+  <p align="center">wTokens is a secondary economy addon geared for Prison servers.<br>
+  Requires a MYSQL database to store user profile and inventory details.<br>
+  Requires SpigotMC (recommended), PaperMC, or Bukkit 1.8.9</p>
 </p>
   
 # Features
