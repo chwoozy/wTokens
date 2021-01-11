@@ -10,7 +10,38 @@ Requires a MYSQL database to store user profile and inventory details.
 
 ## Custom Enchantments
 * Set of upgradeable enchantments mainly improving the efficiency and effectiveness of mining.
-  * Read full documentation [here]()
+  * Fortune
+    * Effect: +1
+    * Increases drops per block broken.
+    * Cost: 6 Tokens
+  * Efficiency
+    * Effect: +1
+    * Allows pickaxe to be swung faster.
+    * Cost: 2 Tokens
+  * Blast
+    * Effect: +1
+    * Increase AOE of mining box.
+    * Cost: 45 Tokens
+  * Hex
+    * Effect: +1
+    * Grants pickaxe the strength to mine a circular radius.
+    * Cost: 36 Tokens
+  * Explosive
+    * Effect: +1
+    * Enchants pickaxe to blow surrounding blocks while mining.
+    * Cost: 7 Tokens
+  * Flight
+    * Effect: +1
+    * Grants wielder the ability of flight.
+    * Cost: 30 Tokens
+  * Speed
+    * Effect: +1
+    * Allows user to run faster while holding pickaxe.
+    * Cost: 5 Tokens
+  * Nightvision
+    * Effect: +1
+    * Gives the wielder night vision.
+    * Cost: 5 Tokens
 
 ## Token Trading
 * GUI trading of tokens cross-transferable across worlds
