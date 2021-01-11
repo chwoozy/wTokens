@@ -3,7 +3,8 @@ wTokens is a secondary economy addon geared for Prison servers.
 Requires a MYSQL database to store user profile and inventory details.
 <p align="center">
   <img align="center" src="https://github.com/yungweezy/wTokens/blob/main/assets/menuimg.png?raw=true" width="400px"><br/>
-</p>
+</p></br>
+
 # Features
 ## Tiered Backpacks
 * Provides extra slots that pops items into inventory when main inventory is full.
