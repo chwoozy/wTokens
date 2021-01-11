@@ -1,5 +1,9 @@
+<!--suppress HtmlDeprecatedAttribute -->
 <h1 align="center">wTokens</h1>
 <p align="center">
+  <a href="https://github.com/yungweezy/wTokens/blob/main/LICENSE" target="_blank">
+    <img alt="license" src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
+  </a><br>
   <img align="center" src="https://github.com/yungweezy/wTokens/blob/main/assets/menuimg.png?raw=true" width="300px">
   <p align="center">wTokens is a secondary economy addon geared for Prison servers.<br>
   Requires a MYSQL database to store user profile and inventory details.<br>
