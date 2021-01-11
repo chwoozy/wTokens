@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yungweezy/wTokens/blob/main/assets/menu.png?raw=true"><br/>
+  <img src="https://github.com/yungweezy/wTokens/blob/main/assets/menuimg.png?raw=true" width="400px"><br/>
   <h1>wTokens</h1>
 </p>
 wTokens is a secondary economy addon geared for Prison servers.  
