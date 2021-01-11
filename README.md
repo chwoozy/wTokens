@@ -1,4 +1,7 @@
-# wTokens
+<p align="center">
+  <img src="https://github.com/yungweezy/wTokens/blob/main/assets/menu.png?raw=true"><br/>
+  <h1>wTokens</h1>
+</p>
 wTokens is a secondary economy addon geared for Prison servers.  
 Requires a MYSQL database to store user profile and inventory details.
 
