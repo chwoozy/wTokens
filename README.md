@@ -57,10 +57,10 @@
   * Read full documentation [here]()
 
 # Dependencies
-- [DeluxeChat]()
-- [FeatherBoard]()
-- [MVdWPlaceholderAPI]()
-- [PlaceholderAPI]()
+- [DeluxeChat](https://www.spigotmc.org/resources/deluxechat.1277/)
+- [FeatherBoard](https://www.spigotmc.org/resources/featherboard.2691/)
+- [MVdWPlaceholderAPI](https://www.spigotmc.org/resources/mvdwplaceholderapi.11182/)
+- [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
 
 # Information
 wTokens was developed under Spigot-1.8.9-R0.1 beta builds and should function for Minecraft versions up to 1.8.9 (pre-PvP 1.6).  
