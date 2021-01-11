@@ -1,0 +1,30 @@
+enchants:
+  blacklist:
+    blocks:
+      - LAVA
+      - WATER
+      - DIRT
+    worlds:
+      - plotworld
+      - spawn
+  workwith:
+    - DIAMOND_PICKAXE
+    - IRON_PICKAXE
+    - DIAMOND_AXE
+    - IRON_AXE
+    - DIAMOND_SHOVEL
+    - IRON_SHOVEL
+exchange: true
+
+#Sorted in ascending order. Also affects rank list in autosell
+bounty:
+  a: 1000.0
+  b: 10000.0
+  c: 20000.0
+  d: 30000.0
+  e: 50000.0
+  f: 1000000.0
+  g: 2000000.0
+  h: 3000000.0
+  i: 5000000.0
+  j: 696969.0

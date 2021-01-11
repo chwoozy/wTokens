@@ -1,0 +1,21 @@
+name: wTokens
+main: me.yungweezy.tokens.main.main
+version: 3.0
+author: yungweezy
+description: wTokens
+softdepend: [DeluxeChat, FeatherBoard, MVdWPlaceholderAPI, PlaceholderAPI]
+commands:
+ givegem:
+    description: Spawns gems
+    permission: tokens.admin
+ backpack:
+    description: Spawns backpack
+    permission: tokens.admin
+ tokens:
+    description: Check your tokens balance
+    permission: tokens.command
+    aliases: token
+ tokenshop:
+    description: Open the token shop
+    permission: tokens.shop
+    aliases: tokensshop

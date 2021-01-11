@@ -1,0 +1,250 @@
+guinames:
+  main: "&3&lTokens"
+  enchants: "&3&lTokens - Enchantments"
+  redeem: "&3&lTokens - Redeem"
+  backpacks: "&3&lTokens - BackPacks"
+  gems: "&3&lTokens - Gem Buffs"
+mainmenu: 
+  enchants:
+    mat: ENCHANTMENT_TABLE
+    sub: 0
+    name: "&3Buy &6Enchantments"
+    lore:
+      - "&ePurchase incredible upgrades"
+      - "&eto your pickaxe for mining efficiency!"
+  redeem: 
+    mat: ANVIL
+    sub: 0
+    name: "&eTokens &3Exchange"
+    lore:
+      - "&eExchange your tokens here to trade them with others"
+  backpacks: 
+    mat: CHEST
+    sub: 0
+    name: "&3Buy &6BackPacks"
+    lore:
+      - "&ePurchase extra storage capacity"
+      - "&eto mine more resources!"
+  gems: 
+    mat: EMERALD
+    sub: 0
+    name: "&3Buy &6Gem Buffs"
+    lore:
+      - "&ePurchase powerful gems"
+      - "&ethat boosts certain worthy aspects!"
+redeem:
+  name: "&3&lRedeem tokens"
+  lore:
+  - "&3Click to redeem tokens"
+keys:
+  0:
+    item: 
+      id: 131
+      sub: 0
+      name: 'keyslot0'
+      lore:
+        - '&1lorenr1'
+        - '&4lorenr2'
+    price: 20
+    key: '2'
+    amount: 1
+  1: 
+    item: 
+      id: 131
+      sub: 0
+      name: 'keyslot1'
+      lore:
+        - '&1lorenr3'
+        - '&4lorenr4'
+    price: 20
+    key: '1'
+    amount: 2
+
+items:
+  '0':
+    id: 1
+    sub: 0
+    name: '&3Piece o stone'
+    lore:
+      - '&2This is a piece'
+      - '&3of STONE'
+    amount: 1
+    price: 1
+    menulore:
+      - '&3Click to buy 1 magical stone'
+    menuname: '&3Buy a piece of stone'
+
+enchants:
+  0: 
+    type: Fortune
+    nick: Fortune
+    lore:
+    - "&8Increases drops per block broken."
+    color: "6"
+  1:
+    type: Efficiency
+    nick: Efficiency
+    lore:
+    - "&8Allows pickaxe to be swung faster."
+    color: "2"
+  2: 
+    type: Unbreaking
+    nick: Unbreaking
+    lore:
+    - "&8Lets your tool last for a little longer."
+    color: "3"
+  3:
+    type: Timebomb
+    nick: Timebomb
+    lore:
+    - "&8Increases drops per block broken."
+    color: "4"
+  4: 
+    type: Explosive
+    nick: Explosive
+    lore:
+    - "&8Enchants pickaxe to blow surronding blocks while mining."
+    color: "6"
+  5:
+    type: Jetpack
+    nick: Jetpack
+    lore:
+    - "&8Grants wielder the ability of flight by technology."
+    color: "6"
+  6: 
+    type: Speed
+    nick: Speed
+    lore:
+    - "&8Allows user to run faster while holding pickaxe."
+    color: "6"
+  7:
+    type: Haste
+    nick: Haste
+    lore:
+    - "&8Be able to mine a bit faster."
+    color: "6"
+  9:
+    type: Drill
+    nick: Drill
+    lore:
+    - "&8An upgrade to your explosive enchantment to make it go down as well!"
+    color: "6"
+  10:
+    type: Bounty
+    nick: Bounty
+    lore:
+    - "&8Gain money after mining a certain amount of blocks."
+    color: "6"
+  11:
+    type: Firework
+    nick: Firework
+    lore:
+    - "&8Why dont you buy it and see it for yourself?"
+    color: "6"
+  12:
+    type: Autosell
+    nick: Autosell
+    lore:
+    - "&8Automatically sell your items based on a cooldown"
+    - "&8(level 1 = 60 seconds, level 2 = 58 seconds, etc)"
+    color: "6"
+gem_bufs:
+  0:
+    tier: 1.5
+    time: 60
+    price: 10
+  1:
+    tier: 2
+    time: 60
+    price: 15
+  2:
+    tier: 2.5
+    time: 60
+    price: 20
+
+backpacks:
+  0: 9
+  1: 18
+  2: 27
+  3: 36
+  4: 45
+  5: 54
+
+prices:
+  bp:
+    9: 10
+    18: 20
+    27: 30
+    36: 40
+    45: 50
+    54: 60
+  enchants:
+    autosell:
+      price: 1000000
+      max: 20
+    bounty: 
+      price: 50
+      max: 10
+    drill:
+      price: 100
+      max: 10
+    firework:
+      price: 690
+      max: 100
+    timebomb:
+      price: 100
+      max: 100
+    jetpack:
+      price: 200
+      max: 100
+    sphere:
+      price: 200
+      max: 5
+    hex:
+      price: 20
+      max: 6
+    blast:
+      price: 300
+      max: 6
+    explosive: 
+      price: 10
+      max: 1000
+    efficiency: 
+      price: 1
+      max: 1000
+    fortune: 
+      price: 2
+      max: 1000
+    speed: 
+      price: 30
+      max: 1000
+    haste: 
+      price: 75
+      max: 1000
+    nightvision: 
+      price: 20
+      max: 1000
+    regeneration: 
+      price: 50
+      max: 1000
+    protection_fall:
+      price: 20
+      max: 200
+    protection_environmental:
+      price: 10
+      max: 1000
+    protection_fire:
+      price: 5
+      max: 1000
+    protection_projectile:
+      price: 10
+      max: 1000
+    unbreaking:
+      price: 10
+      max: 5
+info:
+  lore: 
+    - '&6You currently have'
+    - '&6{TOKENS} tokens'
+  backname: '&7&lback'
+  mainname: 'info'
